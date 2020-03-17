@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="supertable" max_length="40" name="x_snc_superman_supertable" type="collection">
+        <element label="Superfield" max_length="40" name="superfield" type="glide_duration"/>
+    </element>
+</database>
